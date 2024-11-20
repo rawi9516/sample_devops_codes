@@ -1,3 +1,5 @@
+Deatils for which the code written. this can be handled with an application but like to bring it as a devops applciation 
+
 Requirements
 
 The solution should utilize 2 APIs/Functions
